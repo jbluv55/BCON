@@ -1,0 +1,6 @@
+{
+  "name": "Bridge College of Nursing",
+  "description": "Official institutional portal for Bridge College of Nursing and Health Sciences, Nigeria, featuring visitor pages and student/staff interactive portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
